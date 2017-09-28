@@ -1,5 +1,3 @@
-#include "Particle.h"
-
 # Command register
 TCS3472_COMMAND_REG = 0x80
 
